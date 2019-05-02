@@ -175,7 +175,7 @@ public class BaseClass {
 			System.out.println("IE Browser is Launched");
 		}
 
-		driver.manage().deleteAllCookies();
+		//driver.manage().deleteAllCookies();
 		driver.get(configFileObj.getProperty("URL"));
 		//driver.manage().window().maximize();
 		//driver.manage().window().fullscreen();
