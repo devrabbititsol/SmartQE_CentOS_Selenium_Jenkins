@@ -9,7 +9,7 @@ import com.relevantcodes.extentreports.ExtentTest;
 @SuppressWarnings("unused")
 public class Screen1 extends BaseClass {
 	
-	public static String primaryInfo  = "{\"user_id\":7,\"is_generate\":false,\"is_execute\":false,\"is_web\":true,\"project_url\":\"http://devrabbit.com/\",\"report_upload_url\":\"http://192.168.1.144:80/UploadReportFile\",\"project_name\":\"CentOS_Selenium_Jenkins\",\"project_description\":\"desc\",\"project_id\":274,\"module_name\":\"TestModule\",\"module_description\":\"desc\",\"sub_module_id\":0,\"module_id\":422,\"testcase_name\":\"TC1\",\"testcase_id\":456,\"testset_id\":0,\"executed_timestamp\":2016589824,\"browser_type\":\"chrome\"}";
+	public static String primaryInfo  = "{\"user_id\":7,\"is_generate\":false,\"is_execute\":false,\"is_web\":true,\"project_url\":\"http://devrabbit.com/\",\"report_upload_url\":\"http://192.168.1.144:80/UploadReportFile\",\"project_name\":\"CentOS_Selenium_Jenkins\",\"project_description\":\"desc\",\"project_id\":274,\"module_name\":\"TestModule\",\"module_description\":\"desc\",\"sub_module_id\":0,\"module_id\":422,\"testcase_name\":\"TC1\",\"testcase_id\":456,\"testset_id\":0,\"executed_timestamp\":2016663987,\"browser_type\":\"mozilla\"}";
 
 	public static String projectName = "centos_selenium_jenkins";
 	public WebDriver driver;
